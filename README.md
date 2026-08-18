@@ -1,5 +1,9 @@
 # DevOps Intern Final Assessment
 
+# DevOps Intern Final Assessment
+
+![CI](https://github.com/InayaKhan0210/devops-intern-final/actions/workflows/ci.yml/badge.svg)
+
 **Name:** Inaya Khan  
 **Date:** 18 August 2026
 
